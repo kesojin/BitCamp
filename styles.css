@@ -1,0 +1,46 @@
+body {
+  background-color: #f2f2f2;
+}
+
+div {
+  position: absolute;
+  background-color: #ffffff;
+  width: 320px;
+  border-radius: 20px;
+  padding: 16px;
+  margin: 152px 560px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+h1,
+p {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+
+h1 {
+  color: #1f314f;
+  width: 288px;
+  height: 56px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  margin: 24px 16px 0px;
+}
+
+p {
+  color: #7d889e;
+  width: 256px;
+  height: 57px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  letter-spacing: 0.1875px;
+  margin: 16px 32px 40px;
+}
